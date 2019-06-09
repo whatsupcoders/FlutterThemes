@@ -1,16 +1,43 @@
 # flutterfetchtaxiapp
 
-A new Flutter project.
+Flutter Tutorial - Flutter Theme
+Flutter Tutorial - Flutter Theme Video series can be watched here https://youtu.be/ju1fr9C4g4U
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will see how to apply themes in Flutter, create a custom theme, what is a theme Widget and Theme Data.
+ 
+You can watch this video https://www.youtube.com/watch?v=R12ks4yDpMM for details explanation on setting up a project on Firebase console.
 
-A few resources to get you started if this is your first Flutter project:
+For more details about Mockaroo, you can find it here - https://mockaroo.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For more details on how to use Mockaroo tool you can follow this video https://www.youtube.com/watch?v=DaeYeAiF3UU 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To use Google Font use this link - https://fonts.google.com
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FetchTaxiAPP/blob/master/assets/Screenshot_1559848734.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/Flutter-FetchTaxiAPP/blob/master/assets/Screenshot_1559850163.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FetchTaxiAPP/blob/master/assets/Screenshot_1559850180.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FetchTaxiAPP/blob/master/assets/theme.gif" width="200"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
